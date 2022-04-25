@@ -43,7 +43,7 @@ On the mobile app, the user can type the characters to send to the STM32WB ((GAT
 To summarise:
   *1*  User write text on GATT Server Serial Terminal
   *2*  Server  ----------- Notification packet ------>   Client
-or
+*or
   *1*  User write text on GATT Client Serial Terminal
   *2*  Client  ----------- Wtite Command packet ------>   Server
   
