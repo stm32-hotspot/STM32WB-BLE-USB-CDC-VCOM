@@ -1,0 +1,4 @@
+To program a wireless stack inside STM32WBxx devices, you need to refer to the following release notes of the respective official STM32CubeWB package(https://github.com/STMicroelectronics/STM32CubeWB/releases/tag/v1.13.3):
+
+- For STM32WB5x devices: Projects\STM32WB_Copro_Wireless_Binaries\STM32WB5x\Release_Notes.html. 
+  
